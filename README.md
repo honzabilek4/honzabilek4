@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=honzabilek4&count_private=true&include_all_commits=true&hide_rank=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=honzabilek4&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=honzabilek4)
