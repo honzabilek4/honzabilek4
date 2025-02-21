@@ -1,4 +1,4 @@
-### Hi, I'm Honza Bilek 👋  
+### Hi, I'm Jan 👋  
 
 🚀 **Product Manager & Co-founder @ Localazy**  
 🔎 **Building better localization workflows & automation**  
