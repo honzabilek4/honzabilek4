@@ -7,7 +7,7 @@
 
 ---
 ### 🛠️ What I Work On  
-- **Localization & Automation** – Improving translation workflows, MT automation, and integrations at @localazy.  
+- **Localization & Automation** – Improving translation workflows, MT automation, and integrations at [@localazy](https://github.com/localazy).  
 - **Data & Analytics** – Building data pipelines, analytics workflows, and automation with BigQuery and dbt.  
 - **Product Discovery** – Driving the product team to explore problems and launch useful solutions.
 
