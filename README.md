@@ -1,15 +1,35 @@
-<!--
-**honzabilek4/honzabilek4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Honza Bilek 👋  
 
-Here are some ideas to get you started:
+🚀 **Product Manager & Co-founder @ Localazy**  
+🔎 **Building better localization workflows & automation**  
+📊 **Working with data, analytics, and AI-powered tools**  
+✍️ **Writing about practical product management on [Substack](https://realproductwork.substack.com)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=honzabilek4)
+---
+### 🛠️ What I Work On  
+- **Localization & Automation** – Improving translation workflows, MT automation, and integrations at [Localazy](https://localazy.com).  
+- **Data & Analytics** – Building data pipelines, analytics workflows, and automation with BigQuery and dbt.  
+- **Product Discovery** – Driving the product team to explore problems and launch useful solutions.
+
+---
+### 🔧 Technologies & Tools  
+- **Data & Automation**: BigQuery, dbt, Metabase, GitHub Actions  
+- **Development**: TypeScript, Python, SQL, Vue, Node.js, SwiftUI  
+- **AI & LLMs**: Huggingface, LangChain, LangGraph
+
+---
+
+### 🌱 Currently Exploring  
+- **LLMs for Localization** – Investigating AI applications in translation and workflow automation.  
+- **System Architecture** – Studying how complex software systems are designed, scaled, and maintained.
+- **Prioritization & Focus** – Experimenting with ways to help product teams stay aligned and effective.  
+
+---
+
+### 📫 Connect  
+- **LinkedIn**: [linkedin.com/in/xbilek18](https://www.linkedin.com/in/xbilek18/)
+- **Localazy**: [localazy.com](https://localazy.com)  
+
+---
+
+⭐ **Open to discussions on product, analytics, and automation!**  
