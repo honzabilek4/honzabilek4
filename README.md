@@ -1,18 +1,22 @@
-### Hi, I’m Jan  
+### Hey, I’m Jan 👋  
 
-**Product Manager & Co-founder at [Localazy](https://localazy.com)**  
-Focused on localization systems, automation, and data workflows.  
+**PM & Co-founder at [Localazy](https://localazy.com)**  
+Building smarter localization workflows with automation, data, and LLMs.  
 
-I also write about practical product management at [realproductwork.substack.com](https://realproductwork.substack.com).
-
----
-
-### Areas of Work  
-- Machine translation, LLMs, and localization tooling  
-- Data pipelines with dbt and BigQuery  
-- TypeScript, Python, Vue
+Writing real-world product stuff on [Substack](https://realproductwork.substack.com).
 
 ---
 
-### Contact  
+### What I’m Into  
+- Translation workflows, MT, and AI  
+- dbt, BigQuery, Metabase  
+- Vue, TypeScript, Python  
+
+---
+
+### Connect  
 [LinkedIn](https://www.linkedin.com/in/xbilek18/) · [Localazy](https://localazy.com)
+
+---
+
+Let me know if you want to talk product or automation.
