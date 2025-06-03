@@ -1,16 +1,16 @@
 ### Hey, I’m Jan 👋  
 
-**PM at [Localazy](https://localazy.com)**  
-Building smarter localization workflows with automation, data, and LLMs.  
+**PM & Builder at [Localazy](https://localazy.com)**  
+I lead product, but I also build — from translation systems to data pipelines and internal tools.  
 
-Writing real-world product stuff on [Substack](https://realproductwork.substack.com).
+Writing about real-world product work on [Substack](https://realproductwork.substack.com).
 
-### What I’m Into  
-- Translation workflows, MT, and AI  
+### What I Work With  
+- Localization, MT, and LLM-based automation  
 - dbt, BigQuery, Metabase  
-- Vue, TypeScript, Python, Node.js 
+- Vue, TypeScript, Python, Node.js
 
 ### Connect  
 [LinkedIn](https://www.linkedin.com/in/xbilek18/) · [Localazy](https://localazy.com)
 
-Let's connect if you want to talk product or automation.
+Happy to chat about product, systems, or making things that actually work.
