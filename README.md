@@ -15,5 +15,3 @@ Writing about real-world product work on [Substack](https://realproductwork.subs
 
 Happy to chat about product, systems, or making things that actually work.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=honzabilek4&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true" />
-
