@@ -4,9 +4,9 @@ Technical PM at Localazy building AI translation quality tools. I write code (Ty
 
 **What I'm building:**
 
--LLM-based translation quality assessment (Accuracy, Consistency, Precision, Fluency)
--Data pipelines: BigQuery, dbt, product analytics
--Developer tools, APIs, payment systems
+- LLM-based translation quality assessment (Accuracy, Consistency, Precision, Fluency)
+- Data pipelines: BigQuery, dbt, product analytics
+- Developer tools, APIs, payment systems
 
 **Stack:**
 
