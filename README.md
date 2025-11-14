@@ -1,17 +1,18 @@
-### Hey, I’m Jan 👋  
+Hey, I'm Jan 👋
 
-**PM & Builder at [Localazy](https://localazy.com)**  
-I lead product, but I also build — from translation systems to data pipelines and internal tools.  
+Technical PM at Localazy building AI translation quality tools. I write code (TypeScript, Python, SQL) to prototype and ship product features.
 
-Writing about product practice on [Substack](https://realproductwork.substack.com).
+**What I'm building:**
 
-### What I Work With  
-- Localization, MT, and LLM-based automation  
-- dbt, BigQuery, Metabase  
-- Vue, TypeScript, Python, Node.js
+-LLM-based translation quality assessment (Accuracy, Consistency, Precision, Fluency)
+-Data pipelines: BigQuery, dbt, product analytics
+-Developer tools, APIs, payment systems
 
-### Connect  
+**Stack:**
+
+Product: Vue 3, TypeScript, Node.js
+Data: dbt, BigQuery, Metabase, Python
+AI: LLM APIs, Langfuse, Vitest
+
+Writing about what I'm building on [Substack](https://realproductwork.substack.com).
 [LinkedIn](https://www.linkedin.com/in/xbilek18/) · [Localazy](https://localazy.com)
-
-Happy to chat about product, systems, or making things that actually work.
-
