@@ -1,6 +1,8 @@
 Hey, I'm Jan 👋
 
-Technical PM at Localazy building AI translation quality tools. I write code (TypeScript, Python, SQL) to prototype and ship product features.
+Technical PM at Localazy building AI translation quality tools. 
+
+I write code (TypeScript, Python, SQL) to prototype and ship product features.
 
 **What I'm building:**
 
