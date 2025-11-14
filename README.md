@@ -3,7 +3,7 @@
 **PM & Builder at [Localazy](https://localazy.com)**  
 I lead product, but I also build — from translation systems to data pipelines and internal tools.  
 
-Writing about real-world product work on [Substack](https://realproductwork.substack.com).
+Writing about product practice on [Substack](https://realproductwork.substack.com).
 
 ### What I Work With  
 - Localization, MT, and LLM-based automation  
