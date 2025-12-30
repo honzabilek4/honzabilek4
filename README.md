@@ -1,15 +1,9 @@
 Hey, I'm Jan 👋
 
-Technical PM at Localazy building AI translation quality tools. 
+PM at Snowflake building developer tools and improving DX.
 
-I write code (TypeScript, Python, SQL) to prototype and ship product features.
+I write code (TypeScript, Python, SQL) to prototype ideas and ship features.
 
-**What I'm building:**
-
-- LLM-based translation quality assessment (Accuracy, Consistency, Precision, Fluency)
-- Data pipelines: BigQuery, dbt, product analytics
-- Developer tools, APIs, payment systems
+Previously built LLM-powered translation quality systems, data pipelines, and B2B SaaS products.
 
 Writing about what I'm building on [Substack](https://realproductwork.substack.com).
-
-[LinkedIn](https://www.linkedin.com/in/xbilek18/) · [Localazy](https://localazy.com)
